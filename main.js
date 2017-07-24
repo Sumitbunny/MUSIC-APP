@@ -36,6 +36,55 @@
         'duration': '4:31',
         'fileName': 'song/song4.mp3',
 		'image': 'song4.jpg'
+    },
+	
+	{
+	'name': 'Bleed It Out',
+        'artist': 'Linkin Park',
+        'album': 'Minutes to Midnight',
+        'duration': '5:01',
+        'fileName': 'song/song5.mp3',
+		'image': 'song5.jpg'
+    },
+	{
+	'name': 'Chill Chill Chila Ke',
+        'artist': 'Kishor Kumar',
+        'album': 'Half Ticket',
+        'duration': '4:18',
+        'fileName': 'song/song6.mp3',
+		'image': 'song6.jpg'
+    },
+	{
+	'name': 'All About The Bass',
+        'artist': 'Meghan Tranior',
+        'album': 'Title',
+        'duration': '3:08',
+        'fileName': 'song/song7.mp3',
+		'image': 'song7.jpg'
+    },
+	{
+	'name': 'Wolves',
+        'artist': 'Kanye West',
+        'album': 'The Life of Pablo',
+        'duration': '4:01',
+        'fileName': 'song/song8.mp3',
+		'image': 'song8.jpg'
+    },
+	{
+	'name': 'History',
+        'artist': 'One Direction',
+        'album': 'Made in The A.M',
+        'duration': '3:05',
+        'fileName': 'song/song9.mp3',
+		'image': 'song9.jpg'
+    },
+	{
+	'name': 'All Around The World',
+        'artist': 'Justien Bieber',
+        'album': 'Believe',
+        'duration': '2:36',
+        'fileName': 'song/song10.mp3',
+		'image': 'song1.jpg'
     }]
 
 $('.welcome-screen button').on('click', function() {
