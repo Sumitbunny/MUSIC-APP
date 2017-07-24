@@ -61,30 +61,6 @@
         'duration': '3:08',
         'fileName': 'song/song7.mp3',
 		'image': 'song7.jpg'
-    },
-	{
-	'name': 'Wolves',
-        'artist': 'Kanye West',
-        'album': 'The Life of Pablo',
-        'duration': '4:01',
-        'fileName': 'song/song8.mp3',
-		'image': 'song8.jpg'
-    },
-	{
-	'name': 'History',
-        'artist': 'One Direction',
-        'album': 'Made in The A.M',
-        'duration': '3:05',
-        'fileName': 'song/song9.mp3',
-		'image': 'song9.jpg'
-    },
-	{
-	'name': 'All Around The World',
-        'artist': 'Justien Bieber',
-        'album': 'Believe',
-        'duration': '2:36',
-        'fileName': 'song/song10.mp3',
-		'image': 'song1.jpg'
     }]
 
 $('.welcome-screen button').on('click', function() {
